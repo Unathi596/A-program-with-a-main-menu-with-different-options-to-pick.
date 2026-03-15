@@ -6,7 +6,7 @@
 - The user first provides the initial value (For Example "1")
 - The user provides us with the number of terms needed (Let's say the user inputs "4")
 - The sequence forms when we square the Values then we add 2 to the original value. (We continue to do this according to the number of terms in case 4 terms are needed, so we do this 4 times)
-- Like this (1 squared = 1, 1+2 = 3 , 3 squared = 9, 3 + 2 = 5, 5 squared = 25, 5+2 = 7, 7 squared = 49)
+- Like this [1 squared = 1, 1+2 = 3]  [3 squared = 9, 3 + 2 = 5] [5 squared = 25, 5+2 = 7] [7 squared = 49] 
 - Therefore we only display the squared values (1,9,25,49)
 
 ## Option B: Prime numbers ##
