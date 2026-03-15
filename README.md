@@ -26,6 +26,11 @@
 
 ## Concepts used ##
 - Loops (While, For, For each, Do-While)
-- Error handling 
+- Error handling (cin.fail(), cerr)
 - Switch Cases
-- Clearning the buffer (cin.ignore)
+- Clearing the buffer (cin.ignore)
+- getline function
+- Systems (Clearing the system after finishing to compile, Pausing the system)
+- Operators (+=, *=)
+- Conditional Statements (if statements)
+- Conditional Operator (?:)
