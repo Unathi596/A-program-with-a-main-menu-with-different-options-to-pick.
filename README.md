@@ -24,4 +24,8 @@
 ## Option X: Exit Program ##
 - This will just exit the program if the user inputs the character 'x'
 
-
+## Concepts used ##
+- Loops (While, For, For each, Do-While)
+- Error handling 
+- Switch Cases
+- Clearning the buffer (cin.ignore)
